@@ -2,6 +2,7 @@
   "name": "week11redux",
   "version": "0.1.0",
   "private": true,
+  "homepage":"https://ShaeShou.github.io/RP",
   "dependencies": {
     "react": "^16.7.0",
     "react-dom": "^16.7.0",

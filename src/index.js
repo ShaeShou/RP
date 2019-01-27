@@ -12,7 +12,6 @@ const initialState = {
     count : 0
 };
 
-// reducer = (state=initialState, action) =>{
 function reducer (state=initialState, action){
     switch(action.type){
         case 'INCR':
